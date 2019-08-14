@@ -1,0 +1,19 @@
+tables:
+  expercash_scoring/solvency_check_result:
+    - check_id: 1
+      customer_id: 1
+      escore: 'Y'
+      escore_feature: 'PAB'
+      creatd_at: '1970-01-01 00:00:00'
+
+    - check_id: 2
+      customer_id: 1
+      escore: 'Y'
+      escore_feature: 'PAB'
+      creatd_at: '1970-01-01 00:00:00'
+
+    - check_id: 3
+      customer_id: 1
+      escore: 'Y'
+      escore_feature: 'PAB'
+      creatd_at: '1970-01-01 00:00:00'

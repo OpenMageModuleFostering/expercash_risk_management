@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+
+<!--
+/**
+ * @category   Config
+ * @author     Sebastian Ertner <sebastian.ertner@netresearch.de>
+ * @copyright  Copyright (c) 2013 Netresearch GmbH & Co.KG
+ * @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+ */
+ -->
+
+
+<config>
+    <modules>
+        <Expercash_Scoring>
+            <version>15.01.06</version>
+        </Expercash_Scoring>
+    </modules>
+
+    <global>
+        <helpers>
+            <expercash_scoring>
+                <class>Expercash_Scoring_Helper</class>
+            </expercash_scoring>
+        </helpers>
+        <models>
+            <expercash_scoring>
+                <class>Expercash_Scoring_Model</class>
+                <resourceModel>expercash_scoring_mysql4</resourceModel>
+            </expercash_scoring>
+            <expercash_scoring_mysql4>
+                <class>Expercash_Scoring_Model_Mysql4</class>
+                <entities>
+                    <solvency_check_result>
+                        <table>solvency_check_result</table>
+                    </solvency_check_result>
+                </entities>
+            </expercash_scoring_mysql4>
+        </models>
+        <helpers>
+            <expercash_scoring>
+                <class>Expercash_Scoring_Helper</class>
+            </expercash_scoring>
+        </helpers>
+        <blocks>
+            <expercash_scoring>
+                <class>Expercash_Scoring_Block</class>
+            </expercash_scoring>
+        </blocks>
+        <resources>
+            <expercash_scoring_setup>
+                <setup>
+                    <module>Expercash_Scoring</module>
+                    <class>Mage_Core_Model_Resource_Setup</class>
+                </setup>
+                <connection>
+                    <use>core_setup</use>
+                </connection>
+            </expercash_scoring_setup>
+        </resources>
+    </global>
+
+    <adminhtml>
+        <acl>
+            <resources>
+                <admin>
+                    <children>
+                        <system>
+                            <children>
+                                <config>
+                                    <children>
+                                        <expercash_scoring translate="title"
+                                                 module="expercash_scoring">
+                                            <title>Scoring</title>
+                                        </expercash_scoring>
+                                    </children>
+                                </config>
+                            </children>
+                        </system>
+                    </children>
+                </admin>
+            </resources>
+        </acl>
+        <translate>
+            <modules>
+                <Expercash_Scoring>
+                    <files>
+                        <default>Expercash_Scoring.csv</default>
+                    </files>
+                </Expercash_Scoring>
+            </modules>
+        </translate>
+        <layout>
+            <updates>
+                <expercash_scoring>
+                    <file>expercash_scoring.xml</file>
+                </expercash_scoring>
+            </updates>
+        </layout>
+        <translate>
+            <modules>
+                <Expercash_Scoring>
+                    <files>
+                        <default>Expercash_Scoring.csv</default>
+                    </files>
+                </Expercash_Scoring>
+            </modules>
+        </translate>
+    </adminhtml>
+
+    <frontend>
+        <events>
+            <core_block_abstract_to_html_after>
+                <observers>
+                    <append_agreement_to_billing>
+                        <class>expercash_scoring/observer</class>
+                        <method>appendAgreementToBilling</method>
+                    </append_agreement_to_billing>
+                </observers>
+            </core_block_abstract_to_html_after>
+            <controller_action_postdispatch>
+                <observers>
+                    <validate_terms_and_conditions>
+                        <class>expercash_scoring/observer</class>
+                        <method>performSolvencyCheck</method>
+                    </validate_terms_and_conditions>
+                </observers>
+            </controller_action_postdispatch>
+            <core_block_abstract_prepare_layout_before>
+                <observers>
+                    <filter_payment_methods>
+                        <class>expercash_scoring/observer</class>
+                        <method>filterPaymentMethods</method>
+                    </filter_payment_methods>
+                </observers>
+            </core_block_abstract_prepare_layout_before>
+            <checkout_submit_all_after>
+                <observers>
+                    <set_scoring_value_to_registered_user>
+                        <type>singleton</type>
+                        <class>expercash_scoring/observer</class>
+                        <method>setScoringValueToRegisteredUser</method>
+                    </set_scoring_value_to_registered_user>
+                </observers>
+            </checkout_submit_all_after>
+        </events>
+        <layout>
+            <updates>
+                <expercash_scoring>
+                    <file>scoring.xml</file>
+                </expercash_scoring>
+            </updates>
+        </layout>
+
+        <translate>
+            <modules>
+                <Expercash_Scoring>
+                    <files>
+                        <default>Expercash_Scoring.csv</default>
+                    </files>
+                </Expercash_Scoring>
+            </modules>
+        </translate>
+
+        <routers>
+            <expercash_scoring>
+                <use>standard</use>
+                <args>
+                    <module>Expercash_Scoring</module>
+                    <frontName>scoring</frontName>
+                </args>
+            </expercash_scoring>
+        </routers>
+
+    </frontend>
+
+    <admin>
+        <routers>
+            <adminhtml>
+                <use>admin</use>
+                <args>
+                    <modules>
+                        <expercash_scoring>Expercash_Scoring_Adminhtml</expercash_scoring>
+                        <frontName>scoring</frontName>
+                    </modules>
+                </args>
+            </adminhtml>
+        </routers>
+    </admin>
+
+
+    <default>
+        <expercash_scoring>
+            <general>
+                <allowed-country>a:1:{i:0;s:2:"DE";}</allowed-country>
+                <epi-url>https://epi.expercash.net</epi-url>
+            </general>
+        </expercash_scoring>
+    </default>
+    <phpunit>
+        <suite>
+            <modules>
+                <Expercash_Scoring/>
+            </modules>
+        </suite>
+    </phpunit>
+</config>

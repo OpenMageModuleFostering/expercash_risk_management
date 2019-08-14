@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE epixml PUBLIC "easyDebit/epi/DTD" "http://epi.easydebit.net/epi.dtd">
+<epixml>
+    <rc>100</rc>
+    <rctext>Transaction successful</rctext>
+    <taid>00000000000004594228</taid>
+    <escore>G</escore>
+    <escore_feature>PPB</escore_feature>
+</epixml>

@@ -1,0 +1,34 @@
+<div id="scoring_agreement">
+    <ul>
+        <li>
+            <input type="checkbox" class="checkbox"
+                   title="<?php echo $this->__(
+                       'Confirm to perform the solvency check'
+                   ) ?>"
+                   name="billing[scoring_check_confirmation]"
+                   value="scoring_check_confirmation"
+                   id="billing:scoring_check_confirmation"/>
+            <label style="float: none;" id="scoring_terms_label"
+                   for="billing:scoring_check_confirmation"><?php print $this->__(
+                    'Confirm to perform the solvency check'
+                ) ?></label>
+        </li>
+        <li>
+
+        </li>
+    </ul>
+    <?php echo $this->escapeHtml($this->getTermsAndConditionsText()); ?>
+</div>
+<script type="text/javascript">
+    var experCashValidation = new ExperCashValidation();
+    experCashValidation.appendSolvencyCheckToBilling();
+    Event.observe(window, 'load', function() {
+        checkout.accordion.openSection = checkout.accordion.openSection.wrap(function(originalOpenSectionMethod, section) {
+            if ((section == 'opc-billing' || section.id == 'opc-billing')
+                && $('billing:scoring_check_confirmation')) {
+                $('billing:scoring_check_confirmation').checked = false;
+            }
+            originalOpenSectionMethod(section);
+        });
+    });
+</script>

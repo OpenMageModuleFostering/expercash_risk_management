@@ -1,0 +1,5098 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 5 0 R
+ /F4 7 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+4 0 obj
+% Page dictionary
+<< /Contents 25 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 24 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F3': class PDFType1Font 
+5 0 obj
+% Font Helvetica-BoldOblique
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page2': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Contents 26 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 24 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F4': class PDFType1Font 
+7 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page3': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Contents 27 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 24 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+9 0 obj
+% Page dictionary
+<< /Contents 28 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 24 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page5': class PDFPage 
+10 0 obj
+% Page dictionary
+<< /Contents 29 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 24 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page6': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Contents 30 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 24 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page7': class PDFPage 
+12 0 obj
+% Page dictionary
+<< /Contents 31 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 24 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page8': class PDFPage 
+13 0 obj
+% Page dictionary
+<< /Contents 32 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 24 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page9': class PDFPage 
+14 0 obj
+% Page dictionary
+<< /Contents 33 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 24 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page10': class PDFPage 
+15 0 obj
+% Page dictionary
+<< /Contents 34 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 24 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page11': class PDFPage 
+16 0 obj
+% Page dictionary
+<< /Contents 35 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 24 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R17': class PDFCatalog 
+17 0 obj
+% Document Root
+<< /Outlines 19 0 R
+ /PageLabels 36 0 R
+ /PageMode /UseNone
+ /Pages 24 0 R
+ /Type /Catalog >>
+endobj
+% 'R18': class PDFInfo 
+18 0 obj
+<< /Author ()
+ /CreationDate (D:20150105230539-01'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Specification) >>
+endobj
+% 'R19': class PDFOutlines 
+19 0 obj
+<< /Count 4
+ /First 20 0 R
+ /Last 23 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+20 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 793.3701
+ 0 ]
+ /Next 21 0 R
+ /Parent 19 0 R
+ /Title (Gesamt-Modul) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+21 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 793.3701
+ 0 ]
+ /Next 22 0 R
+ /Parent 19 0 R
+ /Prev 20 0 R
+ /Title (Konfigurationsbereich) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+22 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 793.3701
+ 0 ]
+ /Next 23 0 R
+ /Parent 19 0 R
+ /Prev 21 0 R
+ /Title (Verhalten im Checkout) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+23 0 obj
+<< /Dest [ 16 0 R
+ /XYZ
+ 62.69291
+ 793.3701
+ 0 ]
+ /Parent 19 0 R
+ /Prev 22 0 R
+ /Title (Verhalten im Backend) >>
+endobj
+% 'R24': class PDFPages 
+24 0 obj
+% page tree
+<< /Count 11
+ /Kids [ 4 0 R
+ 6 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R ]
+ /Type /Pages >>
+endobj
+% 'R25': class PDFStream 
+25 0 obj
+% page stream
+<< /Length 233 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 769.3701 cm
+q
+0 .533333 .603922 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 172.7049 0 Td (Specification) Tj T* -172.7049 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 759.3701 cm
+Q
+ 
+endstream
+endobj
+% 'R26': class PDFStream 
+26 0 obj
+% page stream
+<< /Length 1956 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 772.3701 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 .533333 .603922 rg (Gesamt-Modul) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 760.3701 cm
+Q
+q
+1 0 0 1 62.69291 670.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 69 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 11.91937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Mit dem Ziel) Tj /F2 10 Tf (:) Tj T* -11.91937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Zahlungsarten gem\344\337 der Bonit\344t des Kunden zu filtern und anzuzeigen) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (H\344ndler) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 2.46937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -2.46937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.423799 Tw (der ExperCash-Account ist korrekt konfiguriert und im Magento eingerichtet) Tj T* 0 Tw (\(Zugangsdaten, Ampelwerte, ...\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 14 Tm 17.46937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (m\366chte ich,) Tj T* 29.45 0 Td (dass) Tj /F2 10 Tf (:) Tj T* -46.91937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .322039 Tw (dem Kunden nur die Zahlarten angezeifgt werden, die f\374r seine B\366nit\344tsgruppe) Tj T* 0 Tw (zul\344ssig sind) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 670.3701 cm
+Q
+q
+1 0 0 1 62.69291 670.3701 cm
+Q
+ 
+endstream
+endobj
+% 'R27': class PDFStream 
+27 0 obj
+% page stream
+<< /Length 10336 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 772.3701 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 .533333 .603922 rg (Konfigurationsbereich) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 760.3701 cm
+Q
+q
+1 0 0 1 62.69291 760.3701 cm
+Q
+q
+1 0 0 1 62.69291 748.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Szenario "Allgemeine Einstellungen":) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 748.3701 cm
+Q
+q
+1 0 0 1 62.69291 730.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 1:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 724.3701 cm
+Q
+q
+1 0 0 1 62.69291 520.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 198 cm
+Q
+q
+1 0 0 1 20 183 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Das Expercash-Scoring-Modul ist installiert und ich bin im Backend angemeldet) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 168 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (den Punkt ) Tj /F4 10 Tf (Bonit\344tspr\374fung ) Tj /F1 10 Tf (im Konfigurationsbereich von Magento \366ffne) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 153 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (H\344ndler) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 141 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 6.38671 Tw (finde ich dort die folgenden Optionen unter dem Punkt "Allgemeine) Tj T* 0 Tw (Einstellungen") Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 123 cm
+Q
+q
+1 0 0 1 91.03937 123 cm
+Q
+q
+1 0 0 1 91.03937 111 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (Aktiviert ) Tj /F1 10 Tf (mit einem Ja/nein Feld) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 105 cm
+Q
+q
+1 0 0 1 91.03937 93 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (Projekt ID ) Tj /F1 10 Tf (mit einem Textfeld f\374r die Projekt ID) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 87 cm
+Q
+q
+1 0 0 1 91.03937 75 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (API Schl\374ssel ) Tj /F1 10 Tf (mit einem Textfeld f\374r den API-Schl\374ssel) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 69 cm
+Q
+q
+1 0 0 1 91.03937 21 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm 10.3572 Tw 12 TL /F4 10 Tf 0 0 0 rg (F\374hre Bonit\344tspr\374fung f\374r folgende L\344nder durch ) Tj /F1 10 Tf (mit einer) Tj T* 0 Tw 4.398079 Tw (Mehrfachauswahl \(deaktiviert\) UND Deutschland vorausgew\344hlt UND) Tj T* 0 Tw .586299 Tw (einen Hinweistext, dass die Bonit\344tspr\374fungen nur f\374r deutsche Adressen) Tj T* 0 Tw (durchgef\374hrt werden) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (Log aktivieren ) Tj /F1 10 Tf (mit einem Ja/nein Feld) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 520.3701 cm
+Q
+q
+1 0 0 1 62.69291 514.3701 cm
+Q
+q
+1 0 0 1 62.69291 514.3701 cm
+Q
+q
+1 0 0 1 62.69291 502.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Szenario "Einstellungen zur Bonit\344tspr\374fung":) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 502.3701 cm
+Q
+q
+1 0 0 1 62.69291 484.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 1:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 478.3701 cm
+Q
+q
+1 0 0 1 62.69291 280.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 192 cm
+Q
+q
+1 0 0 1 20 177 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Das Expercash-Scoring-Modul ist installiert und ich bin im Backend angemeldet) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 162 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (den Punkt ) Tj /F4 10 Tf (Bonit\344tspr\374fung ) Tj /F1 10 Tf (im Konfigurationsbereich von Magento \366ffne) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 147 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (H\344ndler) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 135 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.024039 Tw (finde ich dort die folgenden Optionen unter dem Punkt "Einstellungen zur) Tj T* 0 Tw (Bonit\344tspr\374fung") Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 117 cm
+Q
+q
+1 0 0 1 91.03937 117 cm
+Q
+q
+1 0 0 1 91.03937 93 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .517549 Tw 12 TL /F4 10 Tf 0 0 0 rg (Mindestbetrag um eine Bonit\344tspr\374fung durchf\374hren zu k\366nnen ) Tj /F1 10 Tf (mit einem) Tj T* 0 Tw (Textfeld f\374r den Mindestbetrag) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 87 cm
+Q
+q
+1 0 0 1 91.03937 63 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.495771 Tw 12 TL /F4 10 Tf 0 0 0 rg (F\374r diese Kundengruppen keine Bonit\344tspr\374fung durchf\374hren ) Tj /F1 10 Tf (mit einer) Tj T* 0 Tw (Mehrfachauswahl der Kundengruppen) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 57 cm
+Q
+q
+1 0 0 1 91.03937 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.322549 Tw 12 TL /F4 10 Tf 0 0 0 rg (Wenn kein Ergebnis ermittelt werden konnte, ordne Kunden folgenden) Tj T* 0 Tw (Ampelwert zu) Tj /F1 10 Tf (, mit einer Auswahl der Ampelwerte 'rot', 'gelb', 'gr\374n') Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 27 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 5.798799 Tw (ein Auswahlfeld mit Zahlarten die unabh\344ngig vom Ergebnis der) Tj T* 0 Tw (Bonit\344tspr\374fung angezeigt werden sollen) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 280.3701 cm
+Q
+q
+1 0 0 1 62.69291 274.3701 cm
+Q
+q
+1 0 0 1 62.69291 274.3701 cm
+Q
+q
+1 0 0 1 62.69291 262.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Szenario "G\374ltigkeit des Ergebnisses":) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 262.3701 cm
+Q
+q
+1 0 0 1 62.69291 244.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 1:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 238.3701 cm
+Q
+q
+1 0 0 1 62.69291 187.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 45 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Das Expercash-Scoring-Modul ist installiert und ich bin im Backend angemeldet) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (den Punkt ) Tj /F4 10 Tf (Bonit\344tspr\374fung ) Tj /F1 10 Tf (im Konfigurationsbereich von Magento \366ffne) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (H\344ndler) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R28': class PDFStream 
+28 0 obj
+% page stream
+<< /Length 11200 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 550.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 231 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 219 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.636039 Tw (finde ich dort die folgenden Optionen unter dem Punkt "G\374ltigkeit des) Tj T* 0 Tw (Ergebnisses") Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 213 cm
+Q
+q
+1 0 0 1 91.03937 213 cm
+Q
+q
+1 0 0 1 91.03937 189 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .153377 Tw 12 TL /F4 10 Tf 0 0 0 rg (Maximale Anzahl an Bonit\344tspr\374fungen pro Session ) Tj /F1 10 Tf (mit einem Textfeld f\374r) Tj T* 0 Tw (die maximal zul\344ssige Anzahl an Pr\374fungen pro Session) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 183 cm
+Q
+q
+1 0 0 1 91.03937 147 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 2.130044 Tw 12 TL /F4 10 Tf 0 0 0 rg (Falls die maximale Anzahl an Pr\374fungen pro Session \374berschritten ist,) Tj T* 0 Tw 3.980044 Tw (ordne den Kunden folgenden Ampelwert zu) Tj /F1 10 Tf (, mit einer Auswahl der) Tj T* 0 Tw (Ampelwerte 'rot', 'gelb', 'gr\374n') Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 141 cm
+Q
+q
+1 0 0 1 91.03937 117 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 3.862039 Tw 12 TL /F4 10 Tf 0 0 0 rg (Maximale Anzahl an Pr\374fungen pro Tag ) Tj /F1 10 Tf (mit einem Textfeld f\374r die) Tj T* 0 Tw (maximale Anzahl an Bonit\344tspr\374fungen pro Tag) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 111 cm
+Q
+q
+1 0 0 1 91.03937 75 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.026039 Tw 12 TL /F4 10 Tf 0 0 0 rg (Wenn die maximale Anzahl pro Tag \374berschritten ist, ordne den Kunden) Tj T* 0 Tw 1.775599 Tw (folgenden Ampelwert zu) Tj /F1 10 Tf (, mit einer Auswahl der Ampelwerte 'rot', 'gelb',) Tj T* 0 Tw ('gr\374n') Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 69 cm
+Q
+q
+1 0 0 1 91.03937 45 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 3.083039 Tw 12 TL /F4 10 Tf 0 0 0 rg (Ergebnis der Bonit\344tspr\374fung ist f\374r X Tage g\374ltig) Tj /F1 10 Tf (, mit einer Ja/Nein) Tj T* 0 Tw (Auswahl) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 39 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm .891155 Tw 12 TL /F4 10 Tf 0 0 0 rg (F\374hre erneut die Bonit\344tspr\374fung nach X Tagen durch) Tj /F1 10 Tf (, Textfeld, welches) Tj T* 0 Tw 1.427039 Tw (nur erscheint, wenn "Ergebnis der Bonit\344tspr\374fung ist f\374r X Tage g\374ltig") Tj T* 0 Tw (aktiviert ist) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 550.3701 cm
+Q
+q
+1 0 0 1 62.69291 544.3701 cm
+Q
+q
+1 0 0 1 62.69291 544.3701 cm
+Q
+q
+1 0 0 1 62.69291 532.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Szenario "Konfiguration f\374r die Gruppe mit Ampelwert rot") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 532.3701 cm
+Q
+q
+1 0 0 1 62.69291 514.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 1:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 508.3701 cm
+Q
+q
+1 0 0 1 62.69291 412.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 90 cm
+Q
+q
+1 0 0 1 20 75 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Das Expercash-Scoring-Modul ist installiert und ich bin im Backend angemeldet) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (den Punkt ) Tj /F4 10 Tf (Bonit\344tspr\374fung ) Tj /F1 10 Tf (im Konfigurationsbereich von Magento \366ffne) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 45 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (H\344ndler) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.586399 Tw (finde ich dort die folgenden Optionen unter dem Punkt "Konfiguration f\374r die) Tj T* 0 Tw (Gruppe mit Ampelwert rot") Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+Q
+q
+1 0 0 1 91.03937 15 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (Folgende Zahlarten zulassen ) Tj /F1 10 Tf (mit einer Mehrfachauswahl f\374r die Zahlarten) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 412.3701 cm
+Q
+q
+1 0 0 1 62.69291 406.3701 cm
+Q
+q
+1 0 0 1 62.69291 406.3701 cm
+Q
+q
+1 0 0 1 62.69291 394.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Szenario "Konfiguration f\374r die Gruppe mit Ampelwert gelb") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 394.3701 cm
+Q
+q
+1 0 0 1 62.69291 376.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 1:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 370.3701 cm
+Q
+q
+1 0 0 1 62.69291 244.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 120 cm
+Q
+q
+1 0 0 1 20 105 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Das Expercash-Scoring-Modul ist installiert und ich bin im Backend angemeldet) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (den Punkt ) Tj /F4 10 Tf (Bonit\344tspr\374fung ) Tj /F1 10 Tf (im Konfigurationsbereich von Magento \366ffne) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 75 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (H\344ndler) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.586399 Tw (finde ich dort die folgenden Optionen unter dem Punkt "Konfiguration f\374r die) Tj T* 0 Tw (Gruppe mit Ampelwert rot") Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 45 cm
+Q
+q
+1 0 0 1 91.03937 45 cm
+Q
+q
+1 0 0 1 91.03937 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (Folgende Zahlarten zulassen ) Tj /F1 10 Tf (mit einer Mehrfachauswahl f\374r die Zahlarten) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 27 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 4.16671 Tw 12 TL /F4 10 Tf 0 0 0 rg (Zus\344tzliche Bedingung die f\374r diese Gruppe gelten muss ) Tj /F1 10 Tf (mit einer) Tj T* 0 Tw (Auswahl der Identifikationsmerkmale f\374r diese Gruppe) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 244.3701 cm
+Q
+q
+1 0 0 1 62.69291 238.3701 cm
+Q
+q
+1 0 0 1 62.69291 238.3701 cm
+Q
+q
+1 0 0 1 62.69291 226.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Szenario "Konfiguration f\374r die Gruppe mit Ampelwert gr\374n") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 226.3701 cm
+Q
+q
+1 0 0 1 62.69291 208.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 1:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 202.3701 cm
+Q
+q
+1 0 0 1 62.69291 151.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 45 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Das Expercash-Scoring-Modul ist installiert und ich bin im Backend angemeldet) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (den Punkt ) Tj /F4 10 Tf (Bonit\344tspr\374fung ) Tj /F1 10 Tf (im Konfigurationsbereich von Magento \366ffne) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (H\344ndler) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R29': class PDFStream 
+29 0 obj
+% page stream
+<< /Length 1544 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 718.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.586399 Tw (finde ich dort die folgenden Optionen unter dem Punkt "Konfiguration f\374r die) Tj T* 0 Tw (Gruppe mit Ampelwert rot") Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 45 cm
+Q
+q
+1 0 0 1 91.03937 45 cm
+Q
+q
+1 0 0 1 91.03937 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (Folgende Zahlarten zulassen ) Tj /F1 10 Tf (mit einer Mehrfachauswahl f\374r die Zahlarten) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 27 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 4.16671 Tw 12 TL /F4 10 Tf 0 0 0 rg (Zus\344tzliche Bedingung die f\374r diese Gruppe gelten muss ) Tj /F1 10 Tf (mit einer) Tj T* 0 Tw (Auswahl der Identifikationsmerkmale f\374r diese Gruppe) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 718.3701 cm
+Q
+q
+1 0 0 1 62.69291 718.3701 cm
+Q
+ 
+endstream
+endobj
+% 'R30': class PDFStream 
+30 0 obj
+% page stream
+<< /Length 10353 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 772.3701 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 .533333 .603922 rg (Verhalten im Checkout) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 760.3701 cm
+Q
+q
+1 0 0 1 62.69291 760.3701 cm
+Q
+q
+1 0 0 1 62.69291 748.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Szenario "Best\344tigen der AGB f\374r die Bonit\344tspr\374fung") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 748.3701 cm
+Q
+q
+1 0 0 1 62.69291 730.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 1:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 724.3701 cm
+Q
+q
+1 0 0 1 62.69291 634.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 57 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.493799 Tw (Das Expercash-Scoring-Modul ist installiert und konfiguriert und ich befinde) Tj T* 0 Tw (mich im Checkout) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (den Schritt "Rechnungsadresse" \366ffne) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.840039 Tw (sehe ich vor dem "Weiter" Button eine Checkbox zum Best\344tigen der) Tj T* 0 Tw (Durchf\374hrung der Bonit\344tspr\374fung) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 634.3701 cm
+Q
+q
+1 0 0 1 62.69291 616.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 2:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 610.3701 cm
+Q
+q
+1 0 0 1 62.69291 496.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 108 cm
+Q
+q
+1 0 0 1 20 69 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.493799 Tw (Das Expercash-Scoring-Modul ist installiert und konfiguriert und ich befinde) Tj T* 0 Tw .048933 Tw (mich im Checkout und habe eine deutsche Rechnungsadresse eingegeben und) Tj T* 0 Tw (habe der Durchf\374hrung der Bonit\344tspr\374fung nicht zugestimmt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (auf "Weiter" klicke) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 39 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .271039 Tw (gelange ich zum n\344chsten Schritt des Checkouts UND in der Zahlartenauswahl) Tj T* 0 Tw 6.720044 Tw (befinden sich nur die Zahlarten, die unabh\344ngig vom Ergebnis der) Tj T* 0 Tw (Bonit\344tspr\374fung angezeigt werden sollen) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 496.3701 cm
+Q
+q
+1 0 0 1 62.69291 478.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 3:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 472.3701 cm
+Q
+q
+1 0 0 1 62.69291 358.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 108 cm
+Q
+q
+1 0 0 1 20 57 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.493799 Tw (Das Expercash-Scoring-Modul ist installiert und konfiguriert und ich befinde) Tj T* 0 Tw .048933 Tw (mich im Checkout und habe eine deutsche Rechnungsadresse eingegeben und) Tj T* 0 Tw 1.308799 Tw (habe der Durchf\374hrung der Bonit\344tspr\374fung zugestimmt oder verwende keine) Tj T* 0 Tw (deutsche Rechnungsadresse) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (auf "Weiter" klicke) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .500036 Tw (\366ffnet sich der n\344chste Schritt des Checkouts UND im Zahlartenschritt sind die) Tj T* 0 Tw (Zahlarten nach dem Ampelwert gefiltert) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 358.3701 cm
+Q
+q
+1 0 0 1 62.69291 340.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 4:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 334.3701 cm
+Q
+q
+1 0 0 1 62.69291 220.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 108 cm
+Q
+q
+1 0 0 1 20 45 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 2.493799 Tw (Das Expercash-Scoring-Modul ist installiert und konfiguriert und ich befinde) Tj T* 0 Tw .048933 Tw (mich im Checkout und habe eine deutsche Rechnungsadresse eingegeben und) Tj T* 0 Tw .050044 Tw (habe der Durchf\374hrung der Bonit\344tspr\374fung zugestimmt und habe innerhalb der) Tj T* 0 Tw 2.703377 Tw (letzten X Tage eine Bonit\344tspr\374fung durchgef\374hrt und das Verwenden des) Tj T* 0 Tw (letzten Ergebnisses ist konfiguriert) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (auf den Rechnungsadressen-Schritt \366ffne) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sehe ich keine Checkbox, um die Bonit\344tspr\374fung zu best\344tigen) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 220.3701 cm
+Q
+q
+1 0 0 1 62.69291 214.3701 cm
+Q
+q
+1 0 0 1 62.69291 214.3701 cm
+Q
+q
+1 0 0 1 62.69291 202.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Szenario "Durchf\374hren der Abfrage gegen die Schnittstelle") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 202.3701 cm
+Q
+q
+1 0 0 1 62.69291 184.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 1:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 178.3701 cm
+Q
+q
+1 0 0 1 62.69291 91.37008 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 81 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .800044 Tw (Das Expercash-Scoring-Modul ist installiert und ist so konfiguriert, dass immer) Tj T* 0 Tw .880039 Tw (eine Bonit\344tspr\374fung durchgef\374hrt wird und ich befinde mich im Checkout und) Tj T* 0 Tw 8.555771 Tw (habe eine deutsche Rechnungsadresse eingegeben und habe der) Tj T* 0 Tw (Durchf\374hrung der Bonit\344tspr\374fung zugestimmt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (auf "Weiter" klicke) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R31': class PDFStream 
+31 0 obj
+% page stream
+<< /Length 9432 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 754.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 4.160039 Tw (wird vor dem \326ffnen des n\344chsten Schrittes die Anfrage zu Expercash) Tj T* 0 Tw 4.133672 Tw (gesendet und das Ergebnis wird in der Session und in der Datenbank) Tj T* 0 Tw (gespeichert) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 754.3701 cm
+Q
+q
+1 0 0 1 62.69291 736.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 2:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 730.3701 cm
+Q
+q
+1 0 0 1 62.69291 604.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 120 cm
+Q
+q
+1 0 0 1 20 57 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.785599 Tw (Das Expercash-Scoring-Modul ist installiert und ist so konfiguriert, dass eine) Tj T* 0 Tw 4.355771 Tw (Bonit\344tspr\374fung durchgef\374hrt wird sofern ein gewisser Mindestbetrag der) Tj T* 0 Tw 3.478218 Tw (Bestellung erreicht ist und ich befinde mich im Checkout und habe eine) Tj T* 0 Tw 3.714342 Tw (deutsche Rechnungsadresse eingegeben und habe der Durchf\374hrung der) Tj T* 0 Tw (Bonit\344tspr\374fung zugestimmt und der Mindestbetrag ist nicht erreicht) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (auf "Weiter" klicke) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.104039 Tw (wird vor dem \326ffnen des n\344chsten Schrittes keine Anfrage zu Expercash) Tj T* 0 Tw (gesendet) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 604.3701 cm
+Q
+q
+1 0 0 1 62.69291 586.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 3:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 580.3701 cm
+Q
+q
+1 0 0 1 62.69291 430.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 144 cm
+Q
+q
+1 0 0 1 20 69 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 1.785599 Tw (Das Expercash-Scoring-Modul ist installiert und ist so konfiguriert, dass eine) Tj T* 0 Tw 4.355771 Tw (Bonit\344tspr\374fung durchgef\374hrt wird sofern ein gewisser Mindestbetrag der) Tj T* 0 Tw .880039 Tw (Bestellung erreicht ist und es greifen keine weiteren Einschr\344nkungen und ich) Tj T* 0 Tw 4.920049 Tw (befinde mich im Checkout und habe eine deutsche Rechnungsadresse) Tj T* 0 Tw 1.513799 Tw (eingegeben und habe der Durchf\374hrung der Bonit\344tspr\374fung zugestimmt und) Tj T* 0 Tw (der Mindestbetrag ist erreicht) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (auf "Weiter" klicke) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 39 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.604039 Tw (wird vor dem \326ffnen des n\344chsten Schrittes eine Anfrage zu Expercash) Tj T* 0 Tw 4.133672 Tw (gesendet und das Ergebnis wird in der Session und in der Datenbank) Tj T* 0 Tw (gespeichert) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 430.3701 cm
+Q
+q
+1 0 0 1 62.69291 412.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 4:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 406.3701 cm
+Q
+q
+1 0 0 1 62.69291 280.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 120 cm
+Q
+q
+1 0 0 1 20 57 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.230044 Tw (Das Expercash-Scoring-Modul ist installiert und ist so konfiguriert, dass keine) Tj T* 0 Tw 5.893799 Tw (Bonit\344tspr\374fung durchgef\374hrt wird wenn der Kunde in einer gewissen) Tj T* 0 Tw 1.100945 Tw (Kundengruppe ist und ich befinde mich im Checkout und habe eine deutsche) Tj T* 0 Tw 11.56007 Tw (Rechnungsadresse eingegeben und habe der Durchf\374hrung der) Tj T* 0 Tw (Bonit\344tspr\374fung zugestimmt und der Kunde ist in der Kundengruppe) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (auf "Weiter" klicke) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.104039 Tw (wird vor dem \326ffnen des n\344chsten Schrittes keine Anfrage zu Expercash) Tj T* 0 Tw (gesendet) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 280.3701 cm
+Q
+q
+1 0 0 1 62.69291 262.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 5:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 256.3701 cm
+Q
+q
+1 0 0 1 62.69291 106.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 144 cm
+Q
+q
+1 0 0 1 20 69 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 1.230044 Tw (Das Expercash-Scoring-Modul ist installiert und ist so konfiguriert, dass keine) Tj T* 0 Tw 5.893799 Tw (Bonit\344tspr\374fung durchgef\374hrt wird wenn der Kunde in einer gewissen) Tj T* 0 Tw 2.890044 Tw (Kundengruppe ist und es greifen keine weiteren Einschr\344nkungen und ich) Tj T* 0 Tw 4.920049 Tw (befinde mich im Checkout und habe eine deutsche Rechnungsadresse) Tj T* 0 Tw 1.513799 Tw (eingegeben und habe der Durchf\374hrung der Bonit\344tspr\374fung zugestimmt und) Tj T* 0 Tw (der Kunde ist nicht in der Kundengruppe) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (auf "Weiter" klicke) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 39 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.604039 Tw (wird vor dem \326ffnen des n\344chsten Schrittes eine Anfrage zu Expercash) Tj T* 0 Tw 4.133672 Tw (gesendet und das Ergebnis wird in der Session und in der Datenbank) Tj T* 0 Tw (gespeichert) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 106.3701 cm
+Q
+q
+1 0 0 1 62.69291 88.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 6:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 82.37008 cm
+Q
+ 
+endstream
+endobj
+% 'R32': class PDFStream 
+32 0 obj
+% page stream
+<< /Length 10190 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 721.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 45 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.823039 Tw (Es wurde eine Abfrage an die Expercash-Schnittstelle gesendet und es gab) Tj T* 0 Tw (kein verwertbares Ergebnis) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (im Backend den Kunden \366ffne und dann die Bonit\344tsdaten einsehe) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (H\344ndler) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sehe keinen Eintrag im Datengrid) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 721.8661 cm
+Q
+q
+1 0 0 1 62.69291 703.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 7:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 697.8661 cm
+Q
+q
+1 0 0 1 62.69291 619.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 45 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .191854 Tw (Es wurde eine Abfrage an die Expercash-Schnittstelle gesendet und es gab ein) Tj T* 0 Tw (verwertbares Ergebnis) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (im Backend den Kunden \366ffne und dann die Bonit\344tsdaten einsehe) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (H\344ndler) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sehe ich den konfigurierten zur\374ckgelieferten Ampelwert) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 619.8661 cm
+Q
+q
+1 0 0 1 62.69291 601.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 8:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 595.8661 cm
+Q
+q
+1 0 0 1 62.69291 433.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 156 cm
+Q
+q
+1 0 0 1 20 81 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 2.280044 Tw (Das Expercash-Scoring-Modul ist installiert und ist so konfiguriert, dass nur) Tj T* 0 Tw 3.262266 Tw (eine gewisse Anzahl Bonitatspr\374fungen per Session zul\344ssig sind und es) Tj T* 0 Tw .269039 Tw (greifen keine weiteren Einschr\344nkungen und ich befinde mich im Checkout und) Tj T* 0 Tw 8.555771 Tw (habe eine deutsche Rechnungsadresse eingegeben und habe der) Tj T* 0 Tw 2.212549 Tw (Durchf\374hrung der Bonit\344tspr\374fung zugestimmt und die zul\344ssige Anzahl der) Tj T* 0 Tw (Pr\374fungen pro Session ist noch nicht erreicht) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (auf "Weiter" klicke) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 51 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 3.604039 Tw (wird vor dem \326ffnen des n\344chsten Schrittes eine Anfrage zu Expercash) Tj T* 0 Tw 5.24549 Tw (gesendet und das Ergebnis wird in der Session und die Anzahl der) Tj T* 0 Tw 4.381039 Tw (durchgef\374hrten Pr\374fungen pro Session wird um eins erh\366ht und in der) Tj T* 0 Tw (Datenbank gespeichert) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 433.8661 cm
+Q
+q
+1 0 0 1 62.69291 415.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 9:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 409.8661 cm
+Q
+q
+1 0 0 1 62.69291 259.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 144 cm
+Q
+q
+1 0 0 1 20 69 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 2.280044 Tw (Das Expercash-Scoring-Modul ist installiert und ist so konfiguriert, dass nur) Tj T* 0 Tw 3.262266 Tw (eine gewisse Anzahl Bonitatspr\374fungen per Session zul\344ssig sind und es) Tj T* 0 Tw .269039 Tw (greifen keine weiteren Einschr\344nkungen und ich befinde mich im Checkout und) Tj T* 0 Tw 8.555771 Tw (habe eine deutsche Rechnungsadresse eingegeben und habe der) Tj T* 0 Tw 2.212549 Tw (Durchf\374hrung der Bonit\344tspr\374fung zugestimmt und die zul\344ssige Anzahl der) Tj T* 0 Tw (Pr\374fungen pro Session ist erreicht) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (auf "Weiter" klicke) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 39 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.104039 Tw (wird vor dem \326ffnen des n\344chsten Schrittes keine Anfrage zu Expercash) Tj T* 0 Tw .491039 Tw (gesendet und der Ampelwert f\374r das \334berschreiten der Pr\374fungen pro Session) Tj T* 0 Tw (wird verwendet) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 259.8661 cm
+Q
+q
+1 0 0 1 62.69291 241.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 10:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 235.8661 cm
+Q
+q
+1 0 0 1 62.69291 85.86614 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 144 cm
+Q
+q
+1 0 0 1 20 69 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 2.280044 Tw (Das Expercash-Scoring-Modul ist installiert und ist so konfiguriert, dass nur) Tj T* 0 Tw 1.435039 Tw (eine gewisse Anzahl Bonitatspr\374fungen pro Tag zul\344ssig sind und es greifen) Tj T* 0 Tw 1.102039 Tw (keine weiteren Einschr\344nkungen und ich befinde mich im Checkout und habe) Tj T* 0 Tw .540049 Tw (eine deutsche Rechnungsadresse eingegeben und habe der Durchf\374hrung der) Tj T* 0 Tw 1.347822 Tw (Bonit\344tspr\374fung zugestimmt und die zul\344ssige Anzahl der Pr\374fungen pro Tag) Tj T* 0 Tw (ist noch nicht erreicht) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (auf "Weiter" klicke) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 39 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.604039 Tw (wird vor dem \326ffnen des n\344chsten Schrittes eine Anfrage zu Expercash) Tj T* 0 Tw 4.133672 Tw (gesendet und das Ergebnis wird in der Session und in der Datenbank) Tj T* 0 Tw (gespeichert) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 85.86614 cm
+Q
+ 
+endstream
+endobj
+% 'R33': class PDFStream 
+33 0 obj
+% page stream
+<< /Length 9220 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 781.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 11:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 775.3701 cm
+Q
+q
+1 0 0 1 62.69291 625.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 144 cm
+Q
+q
+1 0 0 1 20 69 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 2.280044 Tw (Das Expercash-Scoring-Modul ist installiert und ist so konfiguriert, dass nur) Tj T* 0 Tw 1.435039 Tw (eine gewisse Anzahl Bonitatspr\374fungen pro Tag zul\344ssig sind und es greifen) Tj T* 0 Tw 1.102039 Tw (keine weiteren Einschr\344nkungen und ich befinde mich im Checkout und habe) Tj T* 0 Tw .540049 Tw (eine deutsche Rechnungsadresse eingegeben und habe der Durchf\374hrung der) Tj T* 0 Tw 1.347822 Tw (Bonit\344tspr\374fung zugestimmt und die zul\344ssige Anzahl der Pr\374fungen pro Tag) Tj T* 0 Tw (ist erreicht) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (auf "Weiter" klicke) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 39 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.104039 Tw (wird vor dem \326ffnen des n\344chsten Schrittes keine Anfrage zu Expercash) Tj T* 0 Tw .194581 Tw (gesendet und der Ampelwert f\374r das \334berschreiten der Pr\374fungen pro Tag wird) Tj T* 0 Tw (verwendet) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 625.3701 cm
+Q
+q
+1 0 0 1 62.69291 607.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 12:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 601.3701 cm
+Q
+q
+1 0 0 1 62.69291 463.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 132 cm
+Q
+q
+1 0 0 1 20 69 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 2.094488 Tw (Das Expercash-Scoring-Modul ist installiert und ist so konfiguriert, dass das) Tj T* 0 Tw 1.520033 Tw (Ergebnis der Bonit\344tspr\374fung nicht f\374r X Tage g\374ltig sein soll und es greifen) Tj T* 0 Tw 1.102039 Tw (keine weiteren Einschr\344nkungen und ich befinde mich im Checkout und habe) Tj T* 0 Tw .540049 Tw (eine deutsche Rechnungsadresse eingegeben und habe der Durchf\374hrung der) Tj T* 0 Tw (Bonit\344tspr\374fung zugestimmt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (auf "Weiter" klicke) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 39 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.604039 Tw (wird vor dem \326ffnen des n\344chsten Schrittes eine Anfrage zu Expercash) Tj T* 0 Tw 4.133672 Tw (gesendet und das Ergebnis wird in der Session und in der Datenbank) Tj T* 0 Tw (gespeichert) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 463.3701 cm
+Q
+q
+1 0 0 1 62.69291 445.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 13:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 439.3701 cm
+Q
+q
+1 0 0 1 62.69291 289.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 144 cm
+Q
+q
+1 0 0 1 20 69 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 2.094488 Tw (Das Expercash-Scoring-Modul ist installiert und ist so konfiguriert, dass das) Tj T* 0 Tw 2.720036 Tw (Ergebnis der Bonit\344tspr\374fung f\374r X Tage g\374ltig sein soll und es existieren) Tj T* 0 Tw 1.823039 Tw (Ergebnisse der Bonit\344tspr\374fung innerhalb der letzten X Tage und es greifen) Tj T* 0 Tw 1.102039 Tw (keine weiteren Einschr\344nkungen und ich befinde mich im Checkout und habe) Tj T* 0 Tw .540049 Tw (eine deutsche Rechnungsadresse eingegeben und habe der Durchf\374hrung der) Tj T* 0 Tw (Bonit\344tspr\374fung zugestimmt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (auf "Weiter" klicke) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 39 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.104039 Tw (wird vor dem \326ffnen des n\344chsten Schrittes keine Anfrage zu Expercash) Tj T* 0 Tw 3.942266 Tw (gesendet und der zuletzt zur\374ckgelieferte Ampelwert der letzten X Tage) Tj T* 0 Tw (verwendet) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 289.3701 cm
+Q
+q
+1 0 0 1 62.69291 271.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 14:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 265.3701 cm
+Q
+q
+1 0 0 1 62.69291 115.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 144 cm
+Q
+q
+1 0 0 1 20 69 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 2.094488 Tw (Das Expercash-Scoring-Modul ist installiert und ist so konfiguriert, dass das) Tj T* 0 Tw .270033 Tw (Ergebnis der Bonit\344tspr\374fung f\374r X Tage g\374ltig sein soll und es existieren keine) Tj T* 0 Tw 1.823039 Tw (Ergebnisse der Bonit\344tspr\374fung innerhalb der letzten X Tage und es greifen) Tj T* 0 Tw 1.102039 Tw (keine weiteren Einschr\344nkungen und ich befinde mich im Checkout und habe) Tj T* 0 Tw .540049 Tw (eine deutsche Rechnungsadresse eingegeben und habe der Durchf\374hrung der) Tj T* 0 Tw (Bonit\344tspr\374fung zugestimmt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (auf "Weiter" klicke) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 39 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.604039 Tw (wird vor dem \326ffnen des n\344chsten Schrittes eine Anfrage zu Expercash) Tj T* 0 Tw 4.133672 Tw (gesendet und das Ergebnis wird in der Session und in der Datenbank) Tj T* 0 Tw (gespeichert) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 115.3701 cm
+Q
+q
+1 0 0 1 62.69291 97.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 15:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 91.37008 cm
+Q
+q
+1 0 0 1 287.6378 79.37008 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R34': class PDFStream 
+34 0 obj
+% page stream
+<< /Length 11455 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 697.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 45 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .440039 Tw (Das Expercash-Scoring-Modul ist installiert und ist so konfiguriert, dass das f\374r) Tj T* 0 Tw 3.183799 Tw (die Ampelgruppen gelb oder gr\374n zus\344tzlich noch der Identifikationsstatus) Tj T* 0 Tw .497309 Tw (ber\374cksichtigt werden soll und der Kunde erh\344lt den Ampelwert gr\374n oder gelb) Tj T* 0 Tw (und er erf\374llt den Identifikationsstatus nicht) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (die Bonit\344tsdaten des Kunden \366ffne) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (H\344ndler) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sehe ich f\374r diese Pr\374fung die n\344chstniedrigere Ampelgruppe) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 697.3701 cm
+Q
+q
+1 0 0 1 62.69291 679.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 16:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 673.3701 cm
+Q
+q
+1 0 0 1 62.69291 571.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 96 cm
+Q
+q
+1 0 0 1 20 45 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .440039 Tw (Das Expercash-Scoring-Modul ist installiert und ist so konfiguriert, dass das f\374r) Tj T* 0 Tw 3.183799 Tw (die Ampelgruppen gelb oder gr\374n zus\344tzlich noch der Identifikationsstatus) Tj T* 0 Tw .497309 Tw (ber\374cksichtigt werden soll und der Kunde erh\344lt den Ampelwert gr\374n oder gelb) Tj T* 0 Tw (und er erf\374llt den Identifikationsstatus) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (die Bonit\344tsdaten des Kunden \366ffne) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (H\344ndler) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sehe ich f\374r diese Pr\374fung die originale Ampelgruppe) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 571.3701 cm
+Q
+q
+1 0 0 1 62.69291 565.3701 cm
+Q
+q
+1 0 0 1 62.69291 565.3701 cm
+Q
+q
+1 0 0 1 62.69291 553.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Szenario "Filtern der Zahlmethoden gem\344\337 Ampelgruppe") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 553.3701 cm
+Q
+q
+1 0 0 1 62.69291 535.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 1:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 529.3701 cm
+Q
+q
+1 0 0 1 62.69291 439.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 45 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 5.788628 Tw (Das Expercash-Scoring-Modul ist installiert und die Einschr\344nkung der) Tj T* 0 Tw 3.590945 Tw (Zahlarten ist f\374r den Ampelwert "rot" konfiguriert und der Kunde hat als) Tj T* 0 Tw (Ergebnis der Bonit\344tspr\374fung den Ampelwert "rot") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (den Zahlartenschritt \366ffne) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sehe ich nur die f\374r den Ampelwert "rot" konfigurierten aktiven Zahlarten) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 439.3701 cm
+Q
+q
+1 0 0 1 62.69291 421.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 2:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 415.3701 cm
+Q
+q
+1 0 0 1 62.69291 325.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 45 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 5.788628 Tw (Das Expercash-Scoring-Modul ist installiert und die Einschr\344nkung der) Tj T* 0 Tw 2.933672 Tw (Zahlarten ist f\374r den Ampelwert "gelb" konfiguriert und der Kunde hat als) Tj T* 0 Tw (Ergebnis der Bonit\344tspr\374fung den Ampelwert "gelb") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (den Zahlartenschritt \366ffne) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sehe ich nur die f\374r den Ampelwert "gelb" konfigurierten aktiven Zahlarten) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 325.3701 cm
+Q
+q
+1 0 0 1 62.69291 307.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 3:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 301.3701 cm
+Q
+q
+1 0 0 1 62.69291 211.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 45 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 5.788628 Tw (Das Expercash-Scoring-Modul ist installiert und die Einschr\344nkung der) Tj T* 0 Tw 2.832763 Tw (Zahlarten ist f\374r den Ampelwert "gr\374n" konfiguriert und der Kunde hat als) Tj T* 0 Tw (Ergebnis der Bonit\344tspr\374fung den Ampelwert "gr\374n") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (den Zahlartenschritt \366ffne) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sehe ich nur die f\374r den Ampelwert "gr\374n" konfigurierten aktiven Zahlarten) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 211.3701 cm
+Q
+q
+1 0 0 1 62.69291 193.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 4:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 187.3701 cm
+Q
+q
+1 0 0 1 62.69291 109.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 45 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.574488 Tw (Das Expercash-Scoring-Modul ist installiert und f\374r den Kunden ist keine) Tj T* 0 Tw (Bonit\344tspr\374fung durchgef\374hrt wurden) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (den Zahlartenschritt \366ffne) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kunde) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sehe ich alle f\374r mich aktiven Zahlarten) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 109.3701 cm
+Q
+q
+1 0 0 1 62.69291 109.3701 cm
+Q
+ 
+endstream
+endobj
+% 'R35': class PDFStream 
+35 0 obj
+% page stream
+<< /Length 7636 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 772.3701 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 .533333 .603922 rg (Verhalten im Backend) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 760.3701 cm
+Q
+q
+1 0 0 1 62.69291 760.3701 cm
+Q
+q
+1 0 0 1 62.69291 748.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Szenario "Anzeige der Bonit\344tsdaten") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 748.3701 cm
+Q
+q
+1 0 0 1 62.69291 730.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 1:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 724.3701 cm
+Q
+q
+1 0 0 1 62.69291 646.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 45 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.277822 Tw (Das Expercash-Scoring-Modul ist installiert und aktiviert und der Kunde hat) Tj T* 0 Tw (noch keine Bonit\344tsdaten) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (den Kunden im Backend \366ffne) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (H\344ndler) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sehe ich die Meldung, dass keine Daten verf\374gbar sind) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 646.3701 cm
+Q
+q
+1 0 0 1 62.69291 628.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 2:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 622.3701 cm
+Q
+q
+1 0 0 1 62.69291 532.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 57 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.277822 Tw (Das Expercash-Scoring-Modul ist installiert und aktiviert und der Kunde hat) Tj T* 0 Tw (Bonit\344tsdaten) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (den Kunden im Backend \366ffne) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (H\344ndler) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .44549 Tw (sehe ich eine Tabelle die die Bonit\344tsdaten sowie die korrigierten Kunden- und) Tj T* 0 Tw (Adressdaten von Expercash enth\344lt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 532.3701 cm
+Q
+q
+1 0 0 1 62.69291 514.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 3:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 508.3701 cm
+Q
+q
+1 0 0 1 62.69291 418.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 57 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.277822 Tw (Das Expercash-Scoring-Modul ist installiert und aktiviert und der Kunde hat) Tj T* 0 Tw (Bonit\344tsdaten) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (den Kunden im Backend \366ffne) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (H\344ndler) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .982266 Tw (den Button 'alle Bonit\344tsdaten des Kunden l\366schen' dr\374cke sind anschlie\337end) Tj T* 0 Tw (alle Bonit\344tsdaten des Kunden gel\366scht) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 418.3701 cm
+Q
+q
+1 0 0 1 62.69291 400.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UC 4:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 394.3701 cm
+Q
+q
+1 0 0 1 62.69291 304.3701 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 57 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 1.35937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Vorausgesetzt) Tj /F2 10 Tf (:) Tj T* -1.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.277822 Tw (Das Expercash-Scoring-Modul ist installiert und aktiviert und der Kunde hat) Tj T* 0 Tw (Bonit\344tsdaten) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 25.25937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Wenn ich) Tj /F2 10 Tf (:) Tj T* -25.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (den Kunden im Backend \366ffne) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 55.80937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (als) Tj /F2 10 Tf (:) Tj T* -55.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (H\344ndler) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 44.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Dann) Tj /F2 10 Tf (:) Tj T* -44.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.72671 Tw (den Link 'l\366schen' eines einzelnen Datensatzes klicke dann ist anschlie\337end) Tj T* 0 Tw (dieser Datensatz gel\366scht) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 304.3701 cm
+Q
+q
+1 0 0 1 62.69291 304.3701 cm
+Q
+ 
+endstream
+endobj
+% 'R36': class PDFPageLabels 
+36 0 obj
+% Document Root
+<< /Nums [ 0
+ 37 0 R
+ 1
+ 38 0 R
+ 2
+ 39 0 R
+ 3
+ 40 0 R
+ 4
+ 41 0 R
+ 5
+ 42 0 R
+ 6
+ 43 0 R
+ 7
+ 44 0 R
+ 8
+ 45 0 R
+ 9
+ 46 0 R
+ 10
+ 47 0 R ] >>
+endobj
+% 'R37': class PDFPageLabel 
+37 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R38': class PDFPageLabel 
+38 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R39': class PDFPageLabel 
+39 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R40': class PDFPageLabel 
+40 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R41': class PDFPageLabel 
+41 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R42': class PDFPageLabel 
+42 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+% 'R43': class PDFPageLabel 
+43 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
+% 'R44': class PDFPageLabel 
+44 0 obj
+% None
+<< /S /D
+ /St 8 >>
+endobj
+% 'R45': class PDFPageLabel 
+45 0 obj
+% None
+<< /S /D
+ /St 9 >>
+endobj
+% 'R46': class PDFPageLabel 
+46 0 obj
+% None
+<< /S /D
+ /St 10 >>
+endobj
+% 'R47': class PDFPageLabel 
+47 0 obj
+% None
+<< /S /D
+ /St 11 >>
+endobj
+xref
+0 48
+0000000000 65535 f
+0000000113 00000 n
+0000000245 00000 n
+0000000410 00000 n
+0000000583 00000 n
+0000000864 00000 n
+0000001051 00000 n
+0000001332 00000 n
+0000001511 00000 n
+0000001790 00000 n
+0000002069 00000 n
+0000002349 00000 n
+0000002629 00000 n
+0000002909 00000 n
+0000003189 00000 n
+0000003470 00000 n
+0000003751 00000 n
+0000004032 00000 n
+0000004191 00000 n
+0000004452 00000 n
+0000004577 00000 n
+0000004749 00000 n
+0000004945 00000 n
+0000005142 00000 n
+0000005307 00000 n
+0000005502 00000 n
+0000005833 00000 n
+0000007888 00000 n
+0000018324 00000 n
+0000029624 00000 n
+0000031267 00000 n
+0000041720 00000 n
+0000051251 00000 n
+0000061541 00000 n
+0000070860 00000 n
+0000082415 00000 n
+0000090154 00000 n
+0000090378 00000 n
+0000090455 00000 n
+0000090532 00000 n
+0000090609 00000 n
+0000090686 00000 n
+0000090763 00000 n
+0000090840 00000 n
+0000090917 00000 n
+0000090994 00000 n
+0000091071 00000 n
+0000091149 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\251-\011\315\(\371\012\241\011\274\(\222\360T\)\320) (\251-\011\315\(\371\012\241\011\274\(\222\360T\)\320)] 
+
+ /Info 18 0 R
+ /Root 17 0 R
+ /Size 48 >>
+startxref
+91197
+%%EOF

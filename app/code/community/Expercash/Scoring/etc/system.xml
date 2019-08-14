@@ -1,0 +1,304 @@
+<?xml version="1.0"?>
+
+<!--
+/**
+ * @category   Config
+ * @author     Sebastian Ertner <sebastian.ertner@netresearch.de>
+ * @copyright  Copyright (c) 2013 Netresearch GmbH & Co.KG
+ * @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+ */
+ -->
+<config>
+    <sections>
+        <expercash_scoring translate="label comment" module="expercash_scoring">
+            <label>Scoring</label>
+            <tab>customer</tab>
+            <frontend_type>text</frontend_type>
+            <sort_order>10</sort_order>
+            <show_in_default>1</show_in_default>
+            <show_in_website>1</show_in_website>
+            <show_in_store>1</show_in_store>
+            <groups>
+                <general translate="label">
+                    <label>General settings</label>
+                    <sort_order>100</sort_order>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>
+                    <fields>
+
+                        <active translate="label">
+                            <label>Enabled</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <sort_order>1</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <sort_order>10</sort_order>
+                        </active>
+
+                        <projectid translate="label">
+                            <label>Project Id</label>
+                            <frontend_type>text</frontend_type>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <sort_order>20</sort_order>
+                        </projectid>
+
+                        <apikey translate="label">
+                            <label>API-Key</label>
+                            <frontend_type>text</frontend_type>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <sort_order>30</sort_order>
+                        </apikey>
+
+                        <terms-addition>
+                            <label>Terms Addition</label>
+                            <frontend_type>textarea</frontend_type>
+                            <sort_order>40</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </terms-addition>
+
+                        <allowed-country translate="label comment">
+                            <label>Perform solvency check for countries</label>
+                            <frontend_type>multiselect</frontend_type>
+                            <frontend_model>Expercash_Scoring_Block_Adminhtml_Field_Country_Renderer</frontend_model>
+                            <sort_order>50</sort_order>
+                            <source_model>adminhtml/system_config_source_country</source_model>
+                            <backend_model>adminhtml/system_config_backend_serialized</backend_model>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <comment>Only Germany is supported</comment>
+                        </allowed-country>
+
+                        <logging-enabled translate="label">
+                            <label>Log enabled</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <sort_order>1</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <sort_order>60</sort_order>
+                        </logging-enabled>
+                    </fields>
+                </general>
+
+                <solvency translate="label">
+                    <label>Solvency Check Settings</label>
+                    <sort_order>110</sort_order>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>
+                    <fields>
+
+                        <total-min translate="label">
+                            <label>Minimum total amount to check solvency</label>
+                            <frontend_type>text</frontend_type>
+                            <validate>validate-number</validate>
+                            <sort_order>10</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </total-min>
+
+                        <skip-for-customer-groups translate="label">
+                            <label>Skip solvency validation for selected customer groups</label>
+                            <frontend_type>multiselect</frontend_type>
+                            <source_model>adminhtml/system_config_source_customer_group</source_model>
+                            <backend_model>adminhtml/system_config_backend_serialized</backend_model>
+                            <sort_order>20</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>1</can_be_empty>
+                        </skip-for-customer-groups>
+
+                        <default-scoring-if-no-data-returned translate="label">
+                            <label>If no data could be obtained, handle customer as</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>expercash_scoring/system_config_source_scoring_value</source_model>
+                            <sort_order>30</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </default-scoring-if-no-data-returned>
+
+                        <always-offer-the-following-payment-methods translate="label comment">
+                            <label>Always offer the following payment methods</label>
+                            <frontend_type>multiselect</frontend_type>
+                            <source_model>adminhtml/system_config_source_payment_allmethods</source_model>
+                            <backend_model>adminhtml/system_config_backend_serialized</backend_model>
+                            <sort_order>40</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <comment>Overwrites settings for scoring values</comment>
+                        </always-offer-the-following-payment-methods>
+
+                    </fields>
+                </solvency>
+
+                <re-request translate="label">
+                    <label>Response Validity</label>
+                    <sort_order>130</sort_order>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>
+                    <fields>
+                        <max-number-of-checks-per-session translate="label">
+                            <label>Maximum number of checks per session</label>
+                            <frontend_type>text</frontend_type>
+                            <validate>validate-number</validate>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <sort_order>10</sort_order>
+                        </max-number-of-checks-per-session>
+
+                        <default-scoring-for-session-count translate="label">
+                            <label>If maximum number of checks per session exceeded, handle customer as solvency group</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>expercash_scoring/system_config_source_scoring_value</source_model>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <sort_order>20</sort_order>
+                        </default-scoring-for-session-count>
+
+                        <max-number-of-checks-per-day translate="label">
+                            <label>Maximum number of checks per day</label>
+                            <frontend_type>text</frontend_type>
+                            <validate>validate-number</validate>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <sort_order>30</sort_order>
+                        </max-number-of-checks-per-day>
+
+                        <default-scoring-for-day-count translate="label">
+                            <label>If maximum number of checks per day exceeded, handle customer as solvency group</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>expercash_scoring/system_config_source_scoring_value</source_model>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <sort_order>40</sort_order>
+                        </default-scoring-for-day-count>
+
+                        <scoring-expiring-after-days translate="label">
+                            <label>Scoring expires after X days</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <sort_order>50</sort_order>
+                        </scoring-expiring-after-days>
+
+                        <scoring-repeat-after-days translate="label">
+                            <depends>
+                                <scoring-expiring-after-days>1</scoring-expiring-after-days>
+                            </depends>
+                            <label>Perform new check after X days</label>
+                            <frontend_type>text</frontend_type>
+                            <validate>required-entry validate-greater-than-zero validate-digits</validate>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <sort_order>60</sort_order>
+                        </scoring-repeat-after-days>
+
+                    </fields>
+                </re-request>
+
+                <scoring-value-red translate="label">
+                    <label>Configuration for solvency group red</label>
+                    <sort_order>140</sort_order>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>
+                    <fields>
+                        <allowed-payment-methods translate="label">
+                            <label>Allow following payment methods</label>
+                            <frontend_type>multiselect</frontend_type>
+                            <source_model>adminhtml/system_config_source_payment_allmethods</source_model>
+                            <backend_model>adminhtml/system_config_backend_serialized</backend_model>
+                            <sort_order>20</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </allowed-payment-methods>
+                    </fields>
+                </scoring-value-red>
+
+                <scoring-value-yellow translate="label">
+                    <label>Configuration for solvency group yellow</label>
+                    <sort_order>150</sort_order>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>
+                    <fields>
+                        <allowed-payment-methods translate="label">
+                            <label>Allow following payment methods</label>
+                            <frontend_type>multiselect</frontend_type>
+                            <source_model>adminhtml/system_config_source_payment_allmethods</source_model>
+                            <backend_model>adminhtml/system_config_backend_serialized</backend_model>
+                            <sort_order>20</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </allowed-payment-methods>
+                        <additional-condition translate="label">
+                            <label>Additional condition for this group</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>expercash_scoring/system_config_source_scoring_condition</source_model>
+                            <sort_order>30</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </additional-condition>
+                    </fields>
+                </scoring-value-yellow>
+
+                <scoring-value-green translate="label">
+                    <label>Configuration for solvency group green</label>
+                    <sort_order>160</sort_order>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>
+                    <fields>
+                        <allowed-payment-methods translate="label">
+                            <label>Allow following payment methods</label>
+                            <frontend_type>multiselect</frontend_type>
+                            <source_model>adminhtml/system_config_source_payment_allmethods</source_model>
+                            <backend_model>adminhtml/system_config_backend_serialized</backend_model>
+                            <sort_order>20</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </allowed-payment-methods>
+                        <additional-condition translate="label">
+                            <label>Additional condition for this group</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>expercash_scoring/system_config_source_scoring_condition</source_model>
+                            <sort_order>30</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </additional-condition>
+                    </fields>
+                </scoring-value-green>
+
+            </groups>
+        </expercash_scoring>
+    </sections>
+</config>
